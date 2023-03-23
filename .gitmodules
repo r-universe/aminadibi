@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cfmortality"]
+	path = cfmortality
+	url = https://github.com/cran/cfmortality
+	shallow = true
+	registered = true
+[submodule "codexcopd"]
+	path = codexcopd
+	url = https://github.com/cran/codexcopd
+	shallow = true
+	registered = true
+[submodule "peermodels"]
+	path = peermodels
+	url = https://github.com/cran/peermodels
+	shallow = true
+	registered = true
