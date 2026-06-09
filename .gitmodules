@@ -8,6 +8,3 @@
 [submodule "codexcopd"]
 	path = codexcopd
 	url = https://github.com/cran/codexcopd
-[submodule "peermodels"]
-	path = peermodels
-	url = https://github.com/cran/peermodels
